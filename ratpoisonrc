@@ -1,0 +1,2 @@
+bind c exec xterm -fg green -bg black -fn 9x15
+bind x exec /home/tman/killxorg.sh
